@@ -1,0 +1,10 @@
+{
+  "name": "amuseme",
+  "version": "1.0.0",
+  "engines": {
+    "node": ""
+  },
+  "dependencies":{
+    "express":""
+  }
+}
