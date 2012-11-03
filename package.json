@@ -1,0 +1,14 @@
+{
+  "name": "amuseme",
+  "version": "1.0.0",
+  "engines": {
+    "node": ""
+  },
+  "dependencies":{
+    "express":"*",
+    "jade":"*",
+    "node-foursquare-2":"*",
+    "echonest":"*",
+    "superagent":"*"
+  }
+}
